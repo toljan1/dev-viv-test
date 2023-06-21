@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dev-viv-test/static/css/main.6f06b4a0.css",
+    "main.js": "/dev-viv-test/static/js/main.a3c3786c.js",
+    "static/js/128.6cda3946.chunk.js": "/dev-viv-test/static/js/128.6cda3946.chunk.js",
+    "static/js/92.f00bb723.chunk.js": "/dev-viv-test/static/js/92.f00bb723.chunk.js",
+    "static/js/787.33f1d69c.chunk.js": "/dev-viv-test/static/js/787.33f1d69c.chunk.js",
+    "index.html": "/dev-viv-test/index.html",
+    "main.6f06b4a0.css.map": "/dev-viv-test/static/css/main.6f06b4a0.css.map",
+    "main.a3c3786c.js.map": "/dev-viv-test/static/js/main.a3c3786c.js.map",
+    "128.6cda3946.chunk.js.map": "/dev-viv-test/static/js/128.6cda3946.chunk.js.map",
+    "92.f00bb723.chunk.js.map": "/dev-viv-test/static/js/92.f00bb723.chunk.js.map",
+    "787.33f1d69c.chunk.js.map": "/dev-viv-test/static/js/787.33f1d69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f06b4a0.css",
+    "static/js/main.a3c3786c.js"
+  ]
+}
