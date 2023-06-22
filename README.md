@@ -1,6 +1,6 @@
 # PrivatBank Exchange Rate Management SPA
 
-This is a Single Page Application (SPA) designed to provide a user-friendly interface for managing exchange rates. The application allows users to perform currency conversions and view current exchange rates against a base currency. It is built using React, Redux (or MobX) for state management, and Webpack for module bundling.
+This is a Single Page Application (SPA) designed to provide a user-friendly interface for managing exchange rates. The application allows users to perform currency conversions and view current exchange rates against a base currency. It is built using React, Redux for state management, and Webpack for module bundling.
 
 ## Features
 
