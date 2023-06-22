@@ -42,6 +42,7 @@ const CurrencyRatio = () => {
           onChange={onChange}
           onBlur={onBlur}
           step="0.1"
+          min="0.1"
         />
       </div>
     </>
