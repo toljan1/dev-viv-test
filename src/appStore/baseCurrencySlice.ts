@@ -8,7 +8,7 @@ const initialBase: InitialState = {
   baseCurrency: "",
 };
 
-const secondCurrencySlice = createSlice({
+const baseCurrencySlice = createSlice({
   name: "base",
   initialState: initialBase,
   reducers: {
@@ -19,5 +19,5 @@ const secondCurrencySlice = createSlice({
   },
 });
 
-export default secondCurrencySlice.reducer;
-export const { setBaseCurrency } = secondCurrencySlice.actions;
+export default baseCurrencySlice.reducer;
+export const { setBaseCurrency } = baseCurrencySlice.actions;

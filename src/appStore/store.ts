@@ -1,12 +1,12 @@
 /* eslint-disable import/no-cycle */
 import { configureStore } from "@reduxjs/toolkit";
-import baseCurrencyReducer from "../features/baseCurrencySlice";
-import postsReducer from "../features/availableCurrency";
+import baseCurrencyReducer from "./baseCurrencySlice";
+import availableCurrencyReducer from "./availableCurrency";
 
 export const store = configureStore({
   reducer: {
     baseCurrency: baseCurrencyReducer,
-    availableCurrency: postsReducer,
+    availableCurrency: availableCurrencyReducer,
   },
 });
 
