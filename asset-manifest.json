@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/dev-viv-test/static/css/main.f59732f2.css",
-    "main.js": "/dev-viv-test/static/js/main.21cc5357.js",
+    "main.js": "/dev-viv-test/static/js/main.d1238249.js",
     "static/js/128.32792ded.chunk.js": "/dev-viv-test/static/js/128.32792ded.chunk.js",
     "static/js/92.4cb98a1b.chunk.js": "/dev-viv-test/static/js/92.4cb98a1b.chunk.js",
-    "static/js/735.3ce35a3b.chunk.js": "/dev-viv-test/static/js/735.3ce35a3b.chunk.js",
+    "static/js/735.b5788fe4.chunk.js": "/dev-viv-test/static/js/735.b5788fe4.chunk.js",
     "static/js/787.33f1d69c.chunk.js": "/dev-viv-test/static/js/787.33f1d69c.chunk.js",
     "index.html": "/dev-viv-test/index.html",
     "main.f59732f2.css.map": "/dev-viv-test/static/css/main.f59732f2.css.map",
-    "main.21cc5357.js.map": "/dev-viv-test/static/js/main.21cc5357.js.map",
+    "main.d1238249.js.map": "/dev-viv-test/static/js/main.d1238249.js.map",
     "128.32792ded.chunk.js.map": "/dev-viv-test/static/js/128.32792ded.chunk.js.map",
     "92.4cb98a1b.chunk.js.map": "/dev-viv-test/static/js/92.4cb98a1b.chunk.js.map",
-    "735.3ce35a3b.chunk.js.map": "/dev-viv-test/static/js/735.3ce35a3b.chunk.js.map",
+    "735.b5788fe4.chunk.js.map": "/dev-viv-test/static/js/735.b5788fe4.chunk.js.map",
     "787.33f1d69c.chunk.js.map": "/dev-viv-test/static/js/787.33f1d69c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f59732f2.css",
-    "static/js/main.21cc5357.js"
+    "static/js/main.d1238249.js"
   ]
 }
