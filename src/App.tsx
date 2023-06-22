@@ -28,7 +28,6 @@ export function App() {
   const { baseCurrency: baseCurr } = useAppSelector(baseCurrency);
 
   function loadAvaibleCurr() {
-    console.log("i work");
     client
       .get<{ data: AllCurrency }>(apiKey)
       .then((currency) => {
